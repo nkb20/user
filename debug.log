@@ -1,0 +1,9 @@
+2024-01-28T14:41:22.398Z [DEBUG  ]: invalid token
+2024-01-30T06:41:32.235Z [DEBUG  ]: User registered with userId undefined
+2024-01-30T06:41:48.940Z [DEBUG  ]: User registered with userId undefined
+2024-01-30T06:41:56.624Z [DEBUG  ]: Token generated for userId undefined
+2024-01-30T06:42:02.224Z [DEBUG  ]: All fields are required
+2024-01-30T06:42:11.985Z [DEBUG  ]: Token generated for userId undefined
+2024-01-30T06:45:06.332Z [DEBUG  ]: Please enter user name
+2024-01-30T06:45:09.189Z [DEBUG  ]: Invalid user name
+2024-01-31T08:28:16.813Z [DEBUG  ]: Token generated for userId undefined
