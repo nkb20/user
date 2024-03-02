@@ -1,0 +1,364 @@
+2024-01-28T14:41:22.398Z [DEBUG  ]: invalid token
+2024-01-30T06:41:32.235Z [DEBUG  ]: User registered with userId undefined
+2024-01-30T06:41:48.940Z [DEBUG  ]: User registered with userId undefined
+2024-01-30T06:41:56.624Z [DEBUG  ]: Token generated for userId undefined
+2024-01-30T06:42:02.224Z [DEBUG  ]: All fields are required
+2024-01-30T06:42:11.985Z [DEBUG  ]: Token generated for userId undefined
+2024-01-30T06:45:06.332Z [DEBUG  ]: Please enter user name
+2024-01-30T06:45:09.189Z [DEBUG  ]: Invalid user name
+2024-01-31T08:28:16.813Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T15:34:35.383Z [DEBUG  ]: User registered with userId undefined
+2024-03-01T15:42:40.611Z [INFO   ]: Invalid user name
+2024-03-01T15:48:09.551Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T15:48:59.313Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T15:51:05.996Z [INFO   ]: All fields are required
+2024-03-01T15:51:19.459Z [INFO   ]: Invalid user name
+2024-03-01T15:59:27.670Z [INFO   ]: Invalid user name
+2024-03-01T16:00:19.729Z [INFO   ]: Invalid user name
+2024-03-01T16:11:29.610Z [INFO   ]: Invalid user name
+2024-03-01T16:13:21.402Z [INFO   ]: Invalid user name
+2024-03-01T16:13:58.582Z [INFO   ]: Invalid user name
+2024-03-01T16:15:59.190Z [DEBUG  ]: loadavg is not defined
+2024-03-01T16:16:21.339Z [DEBUG  ]: abc
+2024-03-01T16:16:21.349Z [DEBUG  ]: xyz
+2024-03-01T16:16:21.350Z [INFO   ]: Invalid user name or password
+2024-03-01T16:16:56.951Z [DEBUG  ]: abc
+2024-03-01T16:16:56.960Z [INFO   ]: Invalid user name or password
+2024-03-01T16:17:13.146Z [DEBUG  ]: abc
+2024-03-01T16:17:13.158Z [INFO   ]: Invalid user name or password
+2024-03-01T16:23:45.669Z [DEBUG  ]: role  user
+2024-03-01T16:23:57.250Z [DEBUG  ]: role  user
+2024-03-01T16:24:21.656Z [DEBUG  ]: role  user
+2024-03-01T16:24:21.658Z [DEBUG  ]: role  user
+2024-03-01T16:26:26.249Z [DEBUG  ]: role  user
+2024-03-01T16:26:26.251Z [DEBUG  ]: role  user
+2024-03-01T16:28:25.093Z [INFO   ]: role  user
+2024-03-01T16:28:25.095Z [DEBUG  ]: role  user
+2024-03-01T16:28:25.194Z [DEBUG  ]: User name or email id already registered
+2024-03-01T16:28:53.905Z [INFO   ]: role  user
+2024-03-01T16:28:53.907Z [DEBUG  ]: role  user
+2024-03-01T16:28:54.014Z [DEBUG  ]: User name or email id already registered
+2024-03-01T16:30:06.163Z [INFO   ]: role  user
+2024-03-01T16:30:06.165Z [DEBUG  ]: role  user
+2024-03-01T16:30:06.252Z [DEBUG  ]: User name or email id already registered
+2024-03-01T16:30:20.200Z [INFO   ]: role  user
+2024-03-01T16:30:20.201Z [DEBUG  ]: role  user
+2024-03-01T16:30:20.291Z [DEBUG  ]: User registered with userId undefined
+2024-03-01T16:31:05.409Z [INFO   ]: role  user
+2024-03-01T16:31:05.413Z [DEBUG  ]: role  user
+2024-03-01T16:31:05.513Z [DEBUG  ]: User name or email id already registered
+2024-03-01T16:31:14.349Z [INFO   ]: role  user
+2024-03-01T16:31:14.350Z [DEBUG  ]: role  user
+2024-03-01T16:31:14.435Z [DEBUG  ]: User registered with userId 65e202d2468d47ffd62366e1
+2024-03-01T16:32:38.095Z [DEBUG  ]: abc
+2024-03-01T16:32:38.105Z [INFO   ]: Invalid user name or password
+2024-03-01T16:32:43.347Z [DEBUG  ]: abc
+2024-03-01T16:32:43.426Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T16:32:52.487Z [DEBUG  ]: invalid token
+2024-03-01T16:33:00.049Z [DEBUG  ]: Parameter "filter" to findOneAndUpdate() must be an object, got "asdfg" (type string)
+2024-03-01T16:33:48.708Z [DEBUG  ]: decodedBody is not defined
+2024-03-01T16:34:51.253Z [DEBUG  ]: decodedBody is not defined
+2024-03-01T16:35:31.130Z [DEBUG  ]: Invalid token
+2024-03-01T16:35:31.137Z [DEBUG  ]: decodedBody is not defined
+2024-03-01T16:36:38.547Z [DEBUG  ]: decodedBody is not defined
+2024-03-01T16:37:00.245Z [DEBUG  ]: decodedBody is not defined
+2024-03-01T16:37:13.480Z [INFO   ]: ccccccReferenceError: decodedBody is not defined
+2024-03-01T16:37:13.483Z [DEBUG  ]: decodedBody is not defined
+2024-03-01T16:38:25.494Z [INFO   ]: decoded token [object Object]
+2024-03-01T16:38:25.496Z [INFO   ]: ccccccReferenceError: decodedBody is not defined
+2024-03-01T16:38:25.496Z [DEBUG  ]: decodedBody is not defined
+2024-03-01T16:41:59.656Z [INFO   ]: decoded token [object Object]
+2024-03-01T16:41:59.684Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T16:42:59.489Z [INFO   ]: decoded token [object Object]
+2024-03-01T16:42:59.501Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T19:28:21.164Z [INFO   ]: ccccccTokenExpiredError: jwt expired
+2024-03-01T19:28:21.165Z [DEBUG  ]: jwt expired
+2024-03-01T19:28:27.102Z [DEBUG  ]: abc
+2024-03-01T19:28:27.203Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T19:31:37.517Z [DEBUG  ]: jwt expired
+2024-03-01T19:31:55.079Z [DEBUG  ]: jwt expired
+2024-03-01T19:32:22.470Z [DEBUG  ]: sssTokenExpiredError: jwt expired
+2024-03-01T19:34:56.779Z [DEBUG  ]: jwt expired
+2024-03-01T19:37:55.307Z [DEBUG  ]: jwt expired
+2024-03-01T19:38:09.096Z [DEBUG  ]: jwt expired
+2024-03-01T19:38:18.884Z [DEBUG  ]: jwt expired
+2024-03-01T19:39:00.831Z [DEBUG  ]: jwt expired
+2024-03-01T19:41:52.480Z [DEBUG  ]: abc
+2024-03-01T19:41:52.575Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T19:42:06.742Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T19:42:06.746Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T19:42:14.985Z [DEBUG  ]: abc
+2024-03-01T19:42:15.078Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T19:43:47.152Z [DEBUG  ]: abc
+2024-03-01T19:43:47.243Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T19:44:37.362Z [DEBUG  ]: abc
+2024-03-01T19:44:37.454Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T19:45:31.427Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T19:45:53.283Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T19:45:53.300Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T19:46:20.052Z [DEBUG  ]: abc
+2024-03-01T19:46:20.152Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T19:49:58.438Z [INFO   ]: role  user
+2024-03-01T19:49:58.441Z [DEBUG  ]: role  user
+2024-03-01T19:49:58.533Z [INFO   ]: User registered with userId 65e2316687614ec300989fa5
+2024-03-01T19:50:44.465Z [DEBUG  ]: abc
+2024-03-01T19:50:44.481Z [INFO   ]: Invalid user name or password
+2024-03-01T19:50:49.080Z [DEBUG  ]: abc
+2024-03-01T19:50:49.083Z [INFO   ]: Invalid user name or password
+2024-03-01T19:51:04.691Z [DEBUG  ]: abc
+2024-03-01T19:51:04.695Z [INFO   ]: Invalid user name or password
+2024-03-01T19:52:21.193Z [DEBUG  ]: abc
+2024-03-01T19:52:21.196Z [INFO   ]: Invalid user name or password
+2024-03-01T19:54:04.447Z [DEBUG  ]: abcAftaaa
+2024-03-01T19:54:04.459Z [INFO   ]: Invalid user name or password
+2024-03-01T19:54:31.212Z [INFO   ]: Invalid user name or password
+2024-03-01T19:54:50.351Z [DEBUG  ]: abcfunction toLowerCase() { [native code] }
+2024-03-01T19:54:50.361Z [INFO   ]: Invalid user name or password
+2024-03-01T19:55:52.192Z [DEBUG  ]: abcaftaaa
+2024-03-01T19:55:52.285Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T19:56:09.461Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T19:56:09.467Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T19:58:10.824Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T19:58:10.838Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T19:58:37.001Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T19:58:37.015Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T19:59:55.371Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T19:59:55.381Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T19:59:55.459Z [DEBUG  ]: Parameter "filter" to findOneAndUpdate() must be an object, got "aftaaa" (type string)
+2024-03-01T20:00:46.860Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T20:00:46.874Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T20:01:41.140Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T20:01:48.233Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T20:01:48.239Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T20:02:08.758Z [DEBUG  ]: Please enter user name
+2024-03-01T20:02:38.502Z [DEBUG  ]: Invalid user name
+2024-03-01T20:02:50.839Z [DEBUG  ]: Invalid user name
+2024-03-01T20:03:13.417Z [DEBUG  ]: Invalid token
+2024-03-01T20:04:34.789Z [DEBUG  ]: Invalid token
+2024-03-01T20:08:41.436Z [DEBUG  ]: Password doesn't match
+2024-03-01T20:08:50.920Z [DEBUG  ]: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2024-03-01T20:11:08.250Z [DEBUG  ]: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2024-03-01T20:11:35.018Z [DEBUG  ]: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2024-03-01T20:21:48.780Z [INFO   ]: All fields are mendatory
+2024-03-01T20:21:58.927Z [DEBUG  ]: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2024-03-01T20:22:50.800Z [DEBUG  ]: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2024-03-01T20:24:42.712Z [DEBUG  ]: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+2024-03-01T20:27:33.608Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T20:27:38.856Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T20:27:38.859Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T20:27:48.437Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T20:28:02.167Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T20:28:02.170Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T20:30:28.370Z [INFO   ]: role  user
+2024-03-01T20:30:28.372Z [DEBUG  ]: role  user
+2024-03-01T20:30:28.439Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:33:41.387Z [INFO   ]: role  user
+2024-03-01T20:33:41.389Z [DEBUG  ]: role  user
+2024-03-01T20:33:41.453Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:33:51.095Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T20:33:54.832Z [INFO   ]: Incorrect user name or password
+2024-03-01T20:38:30.975Z [INFO   ]: role  user
+2024-03-01T20:38:30.977Z [DEBUG  ]: role  user
+2024-03-01T20:38:31.038Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:38:37.682Z [INFO   ]: role  user
+2024-03-01T20:38:37.683Z [DEBUG  ]: role  user
+2024-03-01T20:38:37.738Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:38:44.441Z [INFO   ]: role  user
+2024-03-01T20:38:44.442Z [DEBUG  ]: role  user
+2024-03-01T20:38:44.501Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:39:27.195Z [INFO   ]: role  user
+2024-03-01T20:39:27.197Z [DEBUG  ]: role  user
+2024-03-01T20:39:27.258Z [INFO   ]: users validation failed: email_id: Path `email_id` is required.
+2024-03-01T20:39:27.259Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:40:33.057Z [INFO   ]: role  user
+2024-03-01T20:40:33.058Z [DEBUG  ]: role  user
+2024-03-01T20:40:33.120Z [INFO   ]: users validation failed: email_id: Path `email_id` is required.
+2024-03-01T20:40:33.121Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:44:21.889Z [INFO   ]: role  user
+2024-03-01T20:44:21.891Z [DEBUG  ]: role  user
+2024-03-01T20:44:21.956Z [ERROR  ]: Validation error:
+2024-03-01T20:46:42.927Z [ERROR  ]: Validation error:
+2024-03-01T20:47:31.589Z [INFO   ]: users validation failed: email_id: Path `email_id` is required.
+2024-03-01T20:47:31.590Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:49:01.192Z [ERROR  ]: Validation errors:
+2024-03-01T20:50:02.546Z [ERROR  ]: Validation errors:
+2024-03-01T20:50:24.487Z [ERROR  ]: Validation errors:
+2024-03-01T20:52:57.155Z [INFO   ]: E11000 duplicate key error collection: usersDB.users index: email_id_1 dup key: { email_id: "Afz19r@gmail.com" }
+2024-03-01T20:52:57.157Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:53:50.667Z [INFO   ]: E11000 duplicate key error collection: usersDB.users index: email_id_1 dup key: { email_id: "Afz19r@gmail.com" }
+2024-03-01T20:53:50.669Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:55:33.149Z [INFO   ]: Username and email id can't be empty
+2024-03-01T20:57:23.043Z [INFO   ]: E11000 duplicate key error collection: usersDB.users index: email_id_1 dup key: { email_id: "Afz19r@gmail.com" }
+2024-03-01T20:57:23.045Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:57:29.840Z [INFO   ]: users validation failed: mobile_number: Path `mobile_number` is required.
+2024-03-01T20:57:29.841Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:57:37.667Z [INFO   ]: users validation failed: mobile_number: Path `mobile_number` is required.
+2024-03-01T20:57:37.668Z [DEBUG  ]: User name or email id already registered
+2024-03-01T20:57:43.624Z [INFO   ]: users validation failed: mobile_number: Path `mobile_number` is required.
+2024-03-01T20:57:43.625Z [DEBUG  ]: User name or email id already registered
+2024-03-01T21:24:07.320Z [DEBUG  ]: Invalid token
+2024-03-01T21:24:13.855Z [INFO   ]: Incorrect user name or password
+2024-03-01T21:24:18.127Z [DEBUG  ]: Token generated for userId undefined
+2024-03-01T21:24:51.544Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T21:24:51.549Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T21:25:06.979Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T21:25:06.983Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T21:27:27.314Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T21:27:27.323Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T21:27:42.795Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T21:27:42.799Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T21:27:47.427Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T21:27:47.432Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T21:28:38.373Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T21:28:38.383Z [INFO   ]: User id={} authenticated succefully
+2024-03-01T21:29:08.171Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T21:29:08.181Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:30:27.627Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T21:30:27.637Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:30:49.301Z [INFO   ]: decoded token iss,sub,exp,nbf,iat,jti,role
+2024-03-01T21:30:49.311Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:30:49.328Z [INFO   ]: producted added succesfully 65e24909e2bf148c9cfd6d63,65e24909e2bf148c9cfd6d65
+2024-03-01T21:44:26.819Z [DEBUG  ]: Invalid token
+2024-03-01T21:44:59.846Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:44:59.856Z [INFO   ]: Product updated successfully: {
+  _id: new ObjectId('65e246169bf32f0077a3f8f9'),
+  name: 'Smartphone',
+  description: 'Advanced smartphone with latest features',
+  price: 800,
+  category: 'Electronics',
+  brand: 'BrandY',
+  image: 'https://example.com/smartphone.jpg',
+  stock: 100,
+  ratings: 4.7,
+  numReviews: 30,
+  createdAt: 2024-03-02T00:00:00.000Z,
+  __v: 0
+}
+2024-03-01T21:45:26.244Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:45:26.249Z [INFO   ]: Product updated successfully: {
+  _id: new ObjectId('65e246169bf32f0077a3f8f9'),
+  name: 'Smartphone',
+  description: 'Advanced smartphone with latest features',
+  price: 900,
+  category: 'Electronics',
+  brand: 'BrandY',
+  image: 'https://example.com/smartphone.jpg',
+  stock: 100,
+  ratings: 4.7,
+  numReviews: 30,
+  createdAt: 2024-03-02T00:00:00.000Z,
+  __v: 0
+}
+2024-03-01T21:45:34.104Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:45:34.108Z [INFO   ]: Product updated successfully: {
+  _id: new ObjectId('65e246169bf32f0077a3f8f9'),
+  name: 'Smartphone',
+  description: 'Advanced smartphone with latest features',
+  price: 900,
+  category: 'Electronics',
+  brand: 'BrandY',
+  image: 'https://example.com/smartphone.jpg',
+  stock: 100,
+  ratings: 4.7,
+  numReviews: 30,
+  createdAt: 2024-03-02T00:00:00.000Z,
+  __v: 0
+}
+2024-03-01T21:46:03.442Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:46:03.445Z [INFO   ]: Product updated successfully: {
+  _id: new ObjectId('65e246169bf32f0077a3f8f9'),
+  name: 'Smartphone',
+  description: 'Advanced smartphone with latest features',
+  price: 1080,
+  category: 'Electronics',
+  brand: 'BrandY',
+  image: 'https://example.com/smartphone.jpg',
+  stock: 100,
+  ratings: 4.7,
+  numReviews: 30,
+  createdAt: 2024-03-02T00:00:00.000Z,
+  __v: 0
+}
+2024-03-01T21:46:25.810Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:46:25.813Z [INFO   ]: Product updated successfully: {
+  _id: new ObjectId('65e246169bf32f0077a3f8f9'),
+  name: 'Smartphone',
+  description: 'Advanced smartphone with latest features',
+  price: 1080,
+  category: 'Electronics',
+  brand: 'BrandY',
+  image: 'https://example.com/smartphone.jpg',
+  stock: 100,
+  ratings: 4.7,
+  numReviews: 30,
+  createdAt: 2024-03-02T00:00:00.000Z,
+  __v: 0
+}
+2024-03-01T21:46:38.136Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:46:38.140Z [INFO   ]: Product updated successfully: {
+  _id: new ObjectId('65e246169bf32f0077a3f8f9'),
+  name: 'Smartphone',
+  description: 'Advanced smartphone with latest features',
+  price: 1080,
+  category: 'Electronics',
+  brand: 'BrandY',
+  image: 'https://example.com/smartphone.jpg',
+  stock: 100,
+  ratings: 4.7,
+  numReviews: 30,
+  createdAt: 2024-03-02T00:00:00.000Z,
+  __v: 0
+}
+2024-03-01T21:48:45.920Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:48:52.577Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:48:52.586Z [INFO   ]: producted added succesfully 65e24d446cbaccf8f5dd5052
+2024-03-01T21:54:49.969Z [DEBUG  ]: Invalid token
+2024-03-01T21:55:11.078Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T21:55:11.084Z [INFO   ]: Product deleted successfully: 65e246169bf32f0077a3f8f9
+2024-03-01T21:57:31.914Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T22:04:48.869Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T22:05:05.705Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T22:05:16.642Z [INFO   ]: Product found successfully.
+2024-03-01T22:06:21.879Z [INFO   ]: Product found successfully.
+2024-03-01T22:06:47.324Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-01T22:06:47.335Z [INFO   ]: producted added succesfully 65e25177111ba2007822dd03
+2024-03-01T22:07:06.955Z [INFO   ]: Product found successfully.
+2024-03-01T22:11:19.390Z [DEBUG  ]: deletedProduct is not defined
+2024-03-01T22:11:38.164Z [DEBUG  ]: deletedProduct is not defined
+2024-03-01T22:11:56.490Z [DEBUG  ]: pro is not defined
+2024-03-01T22:12:08.198Z [INFO   ]: Product found successfully: {
+  _id: new ObjectId('65e25177111ba2007822dd03'),
+  name: 'Oppo',
+  description: 'Powerful laptop with high performance',
+  price: 1200,
+  category: 'Electronics',
+  brand: 'BrandX',
+  image: 'https://example.com/laptop.jpg',
+  stock: 50,
+  ratings: 4.5,
+  numReviews: 20,
+  createdAt: 2024-03-01T22:06:47.327Z,
+  __v: 0
+}
+2024-03-02T18:27:44.312Z [INFO   ]: Product found successfully.
+2024-03-02T18:27:59.358Z [INFO   ]: Product found successfully.
+2024-03-02T18:34:18.976Z [INFO   ]: Product found successfully.
+2024-03-02T18:34:42.366Z [INFO   ]: Product found successfully.
+2024-03-02T18:35:07.432Z [INFO   ]: Product found successfully.
+2024-03-02T18:40:44.954Z [INFO   ]: Product found successfully.
+2024-03-02T18:41:35.693Z [INFO   ]: Product found successfully.
+2024-03-02T18:41:48.999Z [INFO   ]: Product found successfully.
+2024-03-02T18:42:07.701Z [INFO   ]: Product found successfully.
+2024-03-02T18:42:47.192Z [INFO   ]: Product found successfully.
+2024-03-02T18:43:02.800Z [INFO   ]: Product found successfully.
+2024-03-02T18:44:54.052Z [DEBUG  ]: Token generated for userId undefined
+2024-03-02T18:45:05.875Z [INFO   ]: User id= 65e2316687614ec300989fa5 authenticated succefully
+2024-03-02T18:45:05.893Z [INFO   ]: producted added succesfully 65e373b1b6afa1f31a0d25d5
+2024-03-02T18:45:12.942Z [INFO   ]: Product found successfully.
+2024-03-02T18:45:30.845Z [INFO   ]: Product found successfully.
+2024-03-02T18:45:46.735Z [INFO   ]: Product found successfully.
+2024-03-02T18:46:05.474Z [INFO   ]: Product found successfully.
+2024-03-02T18:51:05.266Z [INFO   ]: Product found successfully.
+2024-03-02T18:51:19.143Z [INFO   ]: Product found successfully.
+2024-03-02T18:51:25.813Z [INFO   ]: Product found successfully.
+2024-03-02T18:53:56.798Z [INFO   ]: Product found successfully.
